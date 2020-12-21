@@ -54,7 +54,7 @@ You may not have talent, but race is a must 🚀🚀
 **Utilities**
 
 <code><img height="32" src="https://dashboard.snapcraft.io/site_media/appmedia/2018/04/twitter-card-icon.png" alt="Insomnia"/></code>
-<code><img height="42" src="https://download.logo.wine/logo/DBeaver/DBeaver-Logo.wine.png" alt="DBeaver"/></code>
+<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/DBeaver_logo.svg/1200px-DBeaver_logo.svg.png" alt="DBeaver"/></code>
 
 **DevOps**
 
