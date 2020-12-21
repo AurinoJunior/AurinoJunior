@@ -30,10 +30,10 @@ You may not have talent, but race is a must 🚀🚀
   <img alt="my instagram" width="28" src="https://www.flaticon.com/svg/static/icons/svg/1384/1384063.svg"/>
 </a>
 
-<a>
+<span>
   <span>Aurino#4050</span>
   <img alt="my Discord" width="28" src="https://www.flaticon.com/br/premium-icon/icons/svg/2504/2504896.svg">
-</a>
+</span>
 
 ## My Development Stack
 
@@ -56,6 +56,7 @@ You may not have talent, but race is a must 🚀🚀
 **Utilities**
 
 <code><img height="32" src="https://dashboard.snapcraft.io/site_media/appmedia/2018/04/twitter-card-icon.png" alt="Insomnia"/></code>
+<code><img height="32" src="https://download.logo.wine/logo/DBeaver/DBeaver-Logo.wine.png" alt="DBeaver"/></code>
 
 **DevOps**
 
@@ -65,6 +66,5 @@ You may not have talent, but race is a must 🚀🚀
 
 **Business Tools**
 
-<code><img height="32" src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" alt="Jira"/></code>
 <code><img height="32" src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" alt="Jira"/></code>
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/notion-1693557-1442598.png" alt="Notion"/></code>
