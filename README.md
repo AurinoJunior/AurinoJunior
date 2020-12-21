@@ -31,7 +31,7 @@ You may not have talent, but race is a must 🚀🚀
 </a>
 
 <a href="https://discord.gg/qgP5wMP4">
-    <img alt="my Discord" width="28" src="https://www.flaticon.com/svg/static/icons/svg/356/356060.svg">
+    <img alt="my Discord" width="32" src="https://www.flaticon.com/svg/static/icons/svg/356/356060.svg">
 </a>
 
 ## My Development Stack
@@ -54,7 +54,7 @@ You may not have talent, but race is a must 🚀🚀
 **Utilities**
 
 <code><img height="32" src="https://dashboard.snapcraft.io/site_media/appmedia/2018/04/twitter-card-icon.png" alt="Insomnia"/></code>
-<code><img height="32" src="https://download.logo.wine/logo/DBeaver/DBeaver-Logo.wine.png" alt="DBeaver"/></code>
+<code><img height="42" src="https://download.logo.wine/logo/DBeaver/DBeaver-Logo.wine.png" alt="DBeaver"/></code>
 
 **DevOps**
 
