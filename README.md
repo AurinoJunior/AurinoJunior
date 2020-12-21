@@ -11,7 +11,7 @@
 
 ### About me
 
-- 🔭 I’m currently working on GetNinjas <img width="16px" src="https://emojis.slackmojis.com/emojis/images/1471045863/884/ninja.gif?1471045863" alt="Ninja"/>
+- 🔭 I’m currently working on GetNinjas
 
 - 🌱 I’m currently learning NextJs, ReactJs and Animation with CSS3
 
@@ -31,10 +31,8 @@ You may not have talent, but race is a must 🚀🚀
 </a>
 
 <span>
-  <div>
     <img alt="my Discord" width="28" src="https://www.flaticon.com/svg/static/icons/svg/3767/3767306.svg">
-    <span>Discord: Aurino#4050</span>
-  </div>
+    <p>Discord: Aurino#4050</p>
 </span>
 
 ## My Development Stack
