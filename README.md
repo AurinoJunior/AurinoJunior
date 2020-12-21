@@ -70,4 +70,7 @@
 <code><img height="32" src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" alt="Jira"/></code>
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/notion-1693557-1442598.png" alt="Notion"/></code>
 
+<br>
+<br>
+
 >You may not have talent, but race is a must 🚀🚀
