@@ -31,8 +31,10 @@ You may not have talent, but race is a must 🚀🚀
 </a>
 
 <span>
-  <span>Aurino#4050</span>
-  <img alt="my Discord" width="28" src="https://www.flaticon.com/br/premium-icon/icons/svg/2504/2504896.svg">
+  <div>
+    <img alt="my Discord" width="28" src="https://www.flaticon.com/svg/static/icons/svg/3767/3767306.svg">
+    <span>Discord: Aurino#4050</span>
+  </div>
 </span>
 
 ## My Development Stack
