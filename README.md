@@ -11,7 +11,7 @@
 
 ### About me
 
-- 🥷 I’m currently working on GetNinjas
+- 🔭 I’m currently working on GetNinjas
 
 - 🌱 I’m currently learning NextJs, ReactJs and Animation with CSS3
 
