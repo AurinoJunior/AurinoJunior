@@ -15,11 +15,14 @@
 
 - 🌱 I’m currently learning NextJs, ReactJs and Animation with CSS3
 
-- 🥋 BJJ fighter 
+**Curiosities**
 
-- I love 🍕, 🍔 and 🍟
+- 🥋 BJJ white belt.
 
-You may not have talent, but race is a must 🚀🚀
+- 🖋️ I like to draw.
+
+- I love 🍕, 🍔 and 🍟.
+
 ### Where to find me:
 
 <a href="https://www.linkedin.com/in/aurino-junior-7718a4158">
@@ -66,3 +69,5 @@ You may not have talent, but race is a must 🚀🚀
 
 <code><img height="32" src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" alt="Jira"/></code>
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/notion-1693557-1442598.png" alt="Notion"/></code>
+
+>You may not have talent, but race is a must 🚀🚀
