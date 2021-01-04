@@ -19,6 +19,8 @@
 
 - 🥋 BJJ white belt.
 
+- 🎮 I'm a gamer 🎮.
+
 - 🖋️ I like to draw.
 
 - I love 🍕, 🍔 and 🍟.
@@ -72,5 +74,3 @@
 
 <br>
 <br>
-
->You may not have talent, but race is a must 🚀🚀
