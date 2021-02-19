@@ -27,29 +27,29 @@
 
 ### Where to find me:
 
-<div>
+<div style="display: inline-block;">
   <a href="https://www.linkedin.com/in/aurino-junior-7718a4158">
     <img alt="My linkedin" width="28" src="https://www.flaticon.com/svg/static/icons/svg/1383/1383262.svg" />
   </a>
-  <span>
+  <p>
     Aurino Junior
-  </span>
+  </p>
 </div>
 
-<div>
+<div style="display: inline-block;">
   <a href="https://www.instagram.com/aurigod_7">
     <img alt="my instagram" width="28" src="https://www.flaticon.com/svg/static/icons/svg/1384/1384063.svg"/>
   </a>
-  <span>
+  <p>
     aurigod_7
-  </span>
+  </p>
 </div>
 
-<div>
+<div style="display: inline-block;">
   <img alt="my Discord" width="32" src="https://www.flaticon.com/svg/static/icons/svg/356/356060.svg">
-  <span>
+  <p>
     Aurino#4050
-  </span>
+  </p>
 </div>
 
 
