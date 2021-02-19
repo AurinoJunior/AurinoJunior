@@ -27,7 +27,7 @@
 
 ### Where to find me:
 
-<div style="display: inline-block;">
+<div class="container">
   <a href="https://www.linkedin.com/in/aurino-junior-7718a4158">
     <img alt="My linkedin" width="28" src="https://www.flaticon.com/svg/static/icons/svg/1383/1383262.svg" />
   </a>
@@ -36,7 +36,7 @@
   </p>
 </div>
 
-<div style="display: inline-block;">
+<div class="container">
   <a href="https://www.instagram.com/aurigod_7">
     <img alt="my instagram" width="28" src="https://www.flaticon.com/svg/static/icons/svg/1384/1384063.svg"/>
   </a>
@@ -45,13 +45,20 @@
   </p>
 </div>
 
-<div style="display: inline-block;">
+<div class="container">
   <img alt="my Discord" width="32" src="https://www.flaticon.com/svg/static/icons/svg/356/356060.svg">
   <p>
     Aurino#4050
   </p>
 </div>
 
-
-
+<style>
+  .container {
+    display: inline-block;
+  }
+  
+  .container:not(:first-child) {
+    margin-left: 15px;
+  }
+</style>
 
