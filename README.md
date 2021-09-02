@@ -2,7 +2,6 @@
 ### Welcome to my page!
 <p>
   My name is Aurino, I'm a front-end developer, I'm 23 years old and I live in São Paulo, Brazil.
-  <img width="16" src="https://www.flaticon.com/svg/static/icons/svg/197/197386.svg" alt="Brazil" />
 </p>
 
 <p align="center">
