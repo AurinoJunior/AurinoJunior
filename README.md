@@ -9,13 +9,17 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aurinojunior&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-<div>
-- 🔭 I’m currently working on GetNinjas
-
-- 🎓 I'm graduated in computer science
-
-- 🌱 I’m currently learning NextJs, ReactJs and Animation with CSS3
-</div>
+<ul>
+  <li>
+  🔭 I’m currently working on GetNinjas
+  </li>
+  <li>
+  🎓 I'm graduated in computer science
+  </li>
+  <li>
+  🌱 I’m currently learning NextJs, ReactJs and Animation with CSS3
+  </li>
+</ul>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Auri-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -28,7 +32,7 @@
 <br>
 <br>
 
-<div> 
+<div style="display: flex; width: 100%; justify-content: space-between"> 
   <a href="https://www.instagram.com/aurigod97" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:contatoaurinoaj@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/aurino-junior-7718a4158/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
