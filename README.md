@@ -16,9 +16,6 @@
   <li>
   🎓 I'm graduated in computer science
   </li>
-  <li>
-  🌱 I’m currently learning NextJs, ReactJs and Animation with CSS3
-  </li>
 </ul>
 
 <div style="display: inline_block"><br>
