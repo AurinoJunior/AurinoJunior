@@ -1,7 +1,7 @@
 # Salveeee <img width="30" src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif?1536351075" alt="Sunglasses emoji" />
 ### Welcome to my page!
 <p>
-  My name is Aurino, I'm a front-end developer, I'm 23 years old and I live in São Paulo, Brazil.
+  My name is Aurino, I'm a front-end developer and graduated in computer science and live in São Paulo, Brazil.
 </p>
 
 <div align="center">
@@ -9,14 +9,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aurinojunior&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <br>
-<ul>
-  <li>
-  🔭 I’m currently working on GetNinjas
-  </li>
-  <li>
-  🎓 I'm graduated in computer science
-  </li>
-</ul>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Auri-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
